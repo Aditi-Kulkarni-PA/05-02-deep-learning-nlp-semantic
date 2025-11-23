@@ -1,11 +1,11 @@
 local:
-  base_path: "/Users/aditikulkarni/Documents/Masters/AI-Projects/04-ML-Models/clustering/"
+  base_path: "/Users/aditikulkarni/Documents/Masters/AI-Projects/05-DL-NLP/nlp-semantic/"
   raw_data: "data/raw/"
   processed_data: "data/processed/"
   models: "models/"
 
 aws:
-  base_path: ".../04-ML-Models/clustering/"
-  raw_data: "s3://ml-data-masters/04-ML-Models/clustering/data/raw/"
-  processed_data: "s3://ml-data-masters/04-ML-Models/clustering/data/processed/"
-  models: "s3://ml-data-masters/04-ML-Models/clustering/models/"
+  base_path: ".../05-DL-NLP/nlp-semantic/"
+  raw_data: "s3://ml-data-masters/05-DL-NLP/nlp-semantic/data/raw/"
+  processed_data: "s3://ml-data-masters/05-DL-NLP/nlp-semantic/data/processed/"
+  models: "s3://ml-data-masters/05-DL-NLP/nlp-semantic/models/"
